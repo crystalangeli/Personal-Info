@@ -2,3 +2,4 @@ Name: Crystal Angeli Grace G. Mercado
 Age: 19 years old
 Address: Sta. Maria, Concepcion, Tarlac
 College: Engineering
+Major: Civil Engineering
